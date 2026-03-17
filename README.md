@@ -1,4 +1,25 @@
 <<<<<<< HEAD
+# CS4001 Coursework — Gadget Shop
+
+**Student:** Misael Filho
+**Module:** CC4001 Programming — Coursework 1  
+**Repository:** `https://github.com/mkmfilho/CS4001-CW-Repository`
+
+## Files in this repository
+- `Gadget.java` — superclass for gadgets  
+- `Mobile.java` — subclass representing mobile phones  
+- `MP3.java` — subclass representing MP3 players  
+- `GadgetShop.java` — Swing GUI and `main` method  
+- `report.docx` — coursework report (appendix includes code listing)  
+- `.gitignore` — ignores compiled and IDE files  
+- `screenshots/` — evidence of tests
+
+## How to compile and run (Windows / Command Prompt / PowerShell / Git Bash)
+1. Open a terminal and change to the project folder:
+   ```bash
+   cd "C:\full\path\to\Gadget_Shop_Project\Gadget_Shop_Project"
+
+
 # CS4001-CW-Repository
 Programming Project First Year
 =======
