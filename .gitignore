@@ -1,0 +1,19 @@
+# Java build artifacts
+*.class
+*.ctxt
+
+# BlueJ / IDE
+package.bluej
+*.bluej
+*.project
+
+# OS / temp
+Thumbs.db
+.DS_Store
+*.tmp
+
+# OneDrive / exported text you don't want
+README.TXT
+
+# folders
+doc/
